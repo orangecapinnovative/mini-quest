@@ -19,10 +19,13 @@
 
 ให้ทำการเขียน HTML และ CSS ขึ้นมา 1 หน้า ที่มี Design ตามรูปด้านล่าง ซึ่งเป็นเว็บไซต์ GitHub (https://github.com/) หน้าแรกฉบับย่อที่ตัดบางส่วนออกไป
 
+![./github.png](./github.png)
 Desktop Size
 
+![./github_ipad.png](./github_ipad.png)
 iPad Size
 
+![./github_mobile.png](./github_mobile.png)
 Mobile Size
 
 โดยที่เว็บไซต์ไม่จำเป็นต้องมี Link / Interaction ขอแค่ให้หน้าตาตรงกันหรือใกล้เคียง และ Responsive ทั้ง Mobile และ Desktop
