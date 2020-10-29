@@ -28,7 +28,7 @@ iPad Size
 ![./github_mobile.png](./github_mobile.png)
 Mobile Size
 
-โดยที่เว็บไซต์ไม่จำเป็นต้องมี Link / Interaction ขอแค่ให้หน้าตาตรงกันหรือใกล้เคียง และ Responsive ทั้ง Mobile และ Desktop
+โดยที่เว็บไซต์ไม่จำเป็นต้องมี Link / Interaction ขอแค่ให้หน้าตาตรงกันหรือใกล้เคียง และ Responsive ทั้ง Mobile และ Desktop และรูปภาพสามารถโหลดได้จากเว็บไซต์ของ GitHub ได้เลย
 
 ## 2. JavaScript / TypeScript + Algorithm
 
